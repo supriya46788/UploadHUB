@@ -27,5 +27,5 @@ UploadHub is a simple web application that allows users to upload various types 
 1. **Clone the repository** or download the source code:
 
    ```bash
-   git clone https://github.com/yourusername/uploadhub.git
+   git clone https://github.com/supriya46788/UploadHUB.git
    
